@@ -3,7 +3,9 @@ content_type: resource
 description: ''
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/6-827-multithreaded-parallelism-languages-and-compilers-fall-2002/de2b0ad4601622858d781b1cd104ab81_suggestions.pdf
 file_type: application/pdf
+learning_resource_types: []
 resourcetype: Document
 title: suggestions.pdf
+type: OCWFile
 uid: de2b0ad4-6016-2285-8d78-1b1cd104ab81
 ---
