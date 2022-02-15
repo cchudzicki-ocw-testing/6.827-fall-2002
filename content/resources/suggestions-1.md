@@ -9,6 +9,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: suggestions.pdf
-type: OCWFile
 uid: 73f9da65-9991-6825-e376-a143e3248e69
 ---

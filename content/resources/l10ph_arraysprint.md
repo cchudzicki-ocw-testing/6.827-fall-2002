@@ -11,6 +11,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: L10pH_ArraysPrint.pdf
-type: OCWFile
 uid: b91101c6-5a8c-d640-6c28-8a7d1ad588bd
 ---

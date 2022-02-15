@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: L05LambdaLet2Print.pdf
-type: OCWFile
 uid: 9921f4e5-0b3d-1fc5-7c36-aaf07adffdad
 ---

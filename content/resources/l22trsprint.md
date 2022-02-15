@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: L22TRSPrint.pdf
-type: OCWFile
 uid: bb9439fb-f5e8-cda8-688f-c926fecb5db4
 ---

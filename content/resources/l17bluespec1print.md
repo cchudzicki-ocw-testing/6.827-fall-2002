@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: L17Bluespec1Print.pdf
-type: OCWFile
 uid: da87b9d1-ffa0-7640-dd81-ed2a01b21402
 ---

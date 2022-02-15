@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: L20Bluespec4.pdf
-type: OCWFile
 uid: e79aef12-5ada-91d1-4be7-ad22b870c007
 ---

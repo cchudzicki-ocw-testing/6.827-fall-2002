@@ -9,6 +9,5 @@ parent_title: Exams
 parent_type: CourseSection
 resourcetype: Document
 title: quiztopics.pdf
-type: OCWFile
 uid: f610e917-7267-1b0c-8388-a5687968b395
 ---

@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: L12MstructuresPrint.pdf
-type: OCWFile
 uid: 2c3821ed-71fb-dd3c-667c-402354c9d2b9
 ---

@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: L23ConfluencePrint.pdf
-type: OCWFile
 uid: 195639c5-0995-84e2-ff16-5576f18829e9
 ---

@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: L11IstructuresPrint.pdf
-type: OCWFile
 uid: fe513f7a-6519-2c09-cc07-3c467e5248dc
 ---

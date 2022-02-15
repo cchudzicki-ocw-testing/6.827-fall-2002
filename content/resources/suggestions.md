@@ -6,6 +6,5 @@ file_type: application/pdf
 learning_resource_types: []
 resourcetype: Document
 title: suggestions.pdf
-type: OCWFile
 uid: de2b0ad4-6016-2285-8d78-1b1cd104ab81
 ---

@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: L14LambdaSide.pdf
-type: OCWFile
 uid: bc975980-ab60-53fe-704a-2244430980ad
 ---

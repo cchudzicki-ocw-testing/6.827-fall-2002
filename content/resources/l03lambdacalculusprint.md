@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: L03LambdaCalculusPrint.pdf
-type: OCWFile
 uid: 78141032-83d8-bfe5-bb35-ecc8fb552124
 ---

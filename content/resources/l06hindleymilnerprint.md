@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: L06HindleyMilnerPrint.pdf
-type: OCWFile
 uid: d1b3ee33-fab6-8142-8c79-80b94cb11ffd
 ---

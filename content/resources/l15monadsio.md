@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: L15MonadsIO.pdf
-type: OCWFile
 uid: 00a6338f-3b09-c1aa-e1b6-fb4cdefab3eb
 ---
