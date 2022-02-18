@@ -30,7 +30,7 @@ Supporting Files
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Problem Set 1 ([PDF]({{< baseurl >}}/resources/ps1))
+Problem Set 1 ({{< resource_link 49cf4e3b-6bdb-1f95-d786-39a5076a7030 "PDF" >}})
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -39,7 +39,7 @@ Problem Set 1 ([PDF]({{< baseurl >}}/resources/ps1))
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Problem Set 2 ([PDF]({{< baseurl >}}/resources/ps2))
+Problem Set 2 ({{< resource_link 0493da88-6fbc-d7c6-b1cb-9283f8e561ad "PDF" >}})
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -58,7 +58,7 @@ ps2-6 ([HS](/courses/electrical-engineering-and-computer-science/6-827-multithre
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Problem Set 3 ([PDF]({{< baseurl >}}/resources/ps3))
+Problem Set 3 ({{< resource_link 6469940f-04a0-9fa7-2cc7-f173b7b6ec46 "PDF" >}})
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -77,7 +77,7 @@ ps3-sample ([FILE](/courses/electrical-engineering-and-computer-science/6-827-mu
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Problem Set 4 ([PDF]({{< baseurl >}}/resources/ps4))
+Problem Set 4 ({{< resource_link ca0ae097-fa08-962e-908a-cc7dacdc7e26 "PDF" >}})
 {{< tdclose >}}
 {{< tdopen >}}
 
