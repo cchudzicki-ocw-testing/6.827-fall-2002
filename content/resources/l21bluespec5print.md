@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: L21Bluespec5Print.pdf
 uid: 7e71c264-2de7-14c6-0204-11f64b939153
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: L13Mstructures2Print.pdf
 uid: 05487316-f7a3-0e67-df82-197c404d405b
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

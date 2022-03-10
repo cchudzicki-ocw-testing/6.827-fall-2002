@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: L12MstructuresPrint.pdf
 uid: 2c3821ed-71fb-dd3c-667c-402354c9d2b9
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

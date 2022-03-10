@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: quiztopics.pdf
 uid: f610e917-7267-1b0c-8388-a5687968b395
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: L20Bluespec4.pdf
 uid: e79aef12-5ada-91d1-4be7-ad22b870c007
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

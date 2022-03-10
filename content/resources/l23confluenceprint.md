@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: L23ConfluencePrint.pdf
 uid: 195639c5-0995-84e2-ff16-5576f18829e9
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

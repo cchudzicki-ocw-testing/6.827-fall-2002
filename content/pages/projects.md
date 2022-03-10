@@ -5,6 +5,10 @@ learning_resource_types:
 ocw_type: CourseSection
 title: Projects
 uid: 553ca27a-c695-0ca2-5144-d40f6857fe06
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Students in this course are required to complete a project, which accounts for 25% of their grade. This section contains suggestions for project topics.

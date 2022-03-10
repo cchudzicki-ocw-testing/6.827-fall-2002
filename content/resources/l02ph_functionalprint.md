@@ -14,4 +14,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: L02pH_FunctionalPrint.pdf
 uid: 83f78422-06da-5f51-3f6d-36d76815dbb8
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

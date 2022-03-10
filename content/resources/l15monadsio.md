@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: L15MonadsIO.pdf
 uid: 00a6338f-3b09-c1aa-e1b6-fb4cdefab3eb
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

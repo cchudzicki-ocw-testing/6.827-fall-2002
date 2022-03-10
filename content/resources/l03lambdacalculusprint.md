@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: L03LambdaCalculusPrint.pdf
 uid: 78141032-83d8-bfe5-bb35-ecc8fb552124
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: L01Introduction.pdf
 uid: 96e07c20-ead6-f540-9a70-54e4883e6442
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

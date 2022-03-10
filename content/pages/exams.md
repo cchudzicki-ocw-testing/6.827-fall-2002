@@ -5,6 +5,10 @@ learning_resource_types:
 ocw_type: CourseSection
 title: Exams
 uid: 725da470-cdbd-b1e4-9825-7ba0d4abc7fa
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 This course has a midterm exam which accounts for 25% of a student's grade. The list of topics on the exam was provided to students in advance for preparation. Instructors who are interested in obtaining the solutions for this exam can contact MIT OpenCourseWare with their requests.

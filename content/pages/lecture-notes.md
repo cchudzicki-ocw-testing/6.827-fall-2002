@@ -5,6 +5,10 @@ learning_resource_types:
 ocw_type: CourseSection
 title: Lecture Notes
 uid: bd64f58a-7ad5-fbb5-7cc7-76e21de6272a
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Some of the lectures below were presented by Jan-Willem Maessen.

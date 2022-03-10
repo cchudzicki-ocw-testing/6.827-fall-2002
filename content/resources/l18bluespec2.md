@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: L18Bluespec2.pdf
 uid: 94da58ed-1d41-d66d-63be-5cd72c48d479
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

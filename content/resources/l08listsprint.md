@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: L08ListsPrint.pdf
 uid: a1b1d06c-63ed-2cbe-8dd4-acfc9eb83b0a
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

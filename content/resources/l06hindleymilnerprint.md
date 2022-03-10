@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: L06HindleyMilnerPrint.pdf
 uid: d1b3ee33-fab6-8142-8c79-80b94cb11ffd
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

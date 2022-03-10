@@ -13,4 +13,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: L10pH_ArraysPrint.pdf
 uid: b91101c6-5a8c-d640-6c28-8a7d1ad588bd
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

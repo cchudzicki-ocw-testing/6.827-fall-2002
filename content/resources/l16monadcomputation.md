@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: L16MonadComputation.pdf
 uid: 137d9bcf-b0ce-f5b2-25ad-18c13bcd9e3c
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

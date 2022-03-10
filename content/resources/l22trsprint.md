@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: L22TRSPrint.pdf
 uid: bb9439fb-f5e8-cda8-688f-c926fecb5db4
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

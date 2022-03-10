@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: L11IstructuresPrint.pdf
 uid: fe513f7a-6519-2c09-cc07-3c467e5248dc
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

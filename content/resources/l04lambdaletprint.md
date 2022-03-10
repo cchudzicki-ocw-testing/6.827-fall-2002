@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: L04LambdaLetPrint.pdf
 uid: 3fc2219b-2a50-1484-afc7-7fb7b7be1103
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: L14LambdaSide.pdf
 uid: bc975980-ab60-53fe-704a-2244430980ad
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

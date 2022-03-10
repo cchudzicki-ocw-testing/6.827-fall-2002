@@ -8,4 +8,8 @@ ocw_type: OCWFile
 resourcetype: Document
 title: suggestions.pdf
 uid: de2b0ad4-6016-2285-8d78-1b1cd104ab81
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

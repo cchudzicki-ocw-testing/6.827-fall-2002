@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: L19Bluespec3.pdf
 uid: aa8615ff-7831-254f-e2b9-876071d9573c
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
