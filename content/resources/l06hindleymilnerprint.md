@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: The Hindley-Milner Type System
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/6-827-multithreaded-parallelism-languages-and-compilers-fall-2002/d1b3ee33fab681428c7980b94cb11ffd_L06HindleyMilnerPrint.pdf
+file: /courses/6-827-multithreaded-parallelism-languages-and-compilers-fall-2002/d1b3ee33fab681428c7980b94cb11ffd_L06HindleyMilnerPrint.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
@@ -17,3 +17,4 @@ video_files:
 video_metadata:
   youtube_id: null
 ---
+The Hindley-Milner Type System

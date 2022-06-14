@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Desugaring List Comprehensions and Pattern Matching
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/6-827-multithreaded-parallelism-languages-and-compilers-fall-2002/7027c7bda9a17b3e3ea595db997672cb_L09Lists2Print.pdf
+file: /courses/6-827-multithreaded-parallelism-languages-and-compilers-fall-2002/7027c7bda9a17b3e3ea595db997672cb_L09Lists2Print.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
@@ -17,3 +17,4 @@ video_files:
 video_metadata:
   youtube_id: null
 ---
+Desugaring List Comprehensions and Pattern Matching

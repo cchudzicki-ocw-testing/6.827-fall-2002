@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Bluespec-1: A language for hardware design, simulation and synthesis'
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/6-827-multithreaded-parallelism-languages-and-compilers-fall-2002/da87b9d1ffa07640dd81ed2a01b21402_L17Bluespec1Print.pdf
+file: /courses/6-827-multithreaded-parallelism-languages-and-compilers-fall-2002/da87b9d1ffa07640dd81ed2a01b21402_L17Bluespec1Print.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
@@ -17,3 +17,4 @@ video_files:
 video_metadata:
   youtube_id: null
 ---
+Bluespec-1: A language for hardware design, simulation and synthesis

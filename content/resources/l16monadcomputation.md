@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Lecture Notes: Using Monads to Structure Computation'
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/6-827-multithreaded-parallelism-languages-and-compilers-fall-2002/137d9bcfb0cef5b225ad18c13bcd9e3c_L16MonadComputation.pdf
+file: /courses/6-827-multithreaded-parallelism-languages-and-compilers-fall-2002/137d9bcfb0cef5b225ad18c13bcd9e3c_L16MonadComputation.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
@@ -17,3 +17,4 @@ video_files:
 video_metadata:
   youtube_id: null
 ---
+Lecture Notes: Using Monads to Structure Computation

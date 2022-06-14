@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: M-Structures Continued
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/6-827-multithreaded-parallelism-languages-and-compilers-fall-2002/05487316f7a30e67df82197c404d405b_L13Mstructures2Print.pdf
+file: /courses/6-827-multithreaded-parallelism-languages-and-compilers-fall-2002/05487316f7a30e67df82197c404d405b_L13Mstructures2Print.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
@@ -17,3 +17,4 @@ video_files:
 video_metadata:
   youtube_id: null
 ---
+M-Structures Continued

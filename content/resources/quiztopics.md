@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Midterm Topics
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/6-827-multithreaded-parallelism-languages-and-compilers-fall-2002/f610e91772671b0c8388a5687968b395_quiztopics.pdf
+file: /courses/6-827-multithreaded-parallelism-languages-and-compilers-fall-2002/f610e91772671b0c8388a5687968b395_quiztopics.pdf
 file_type: application/pdf
 learning_resource_types:
 - Exams
@@ -17,3 +17,4 @@ video_files:
 video_metadata:
   youtube_id: null
 ---
+Midterm Topics

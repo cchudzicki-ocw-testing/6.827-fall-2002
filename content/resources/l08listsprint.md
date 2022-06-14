@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lists and Algebraic Types
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/6-827-multithreaded-parallelism-languages-and-compilers-fall-2002/a1b1d06c63ed2cbe8dd4acfc9eb83b0a_L08ListsPrint.pdf
+file: /courses/6-827-multithreaded-parallelism-languages-and-compilers-fall-2002/a1b1d06c63ed2cbe8dd4acfc9eb83b0a_L08ListsPrint.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
@@ -17,3 +17,4 @@ video_files:
 video_metadata:
   youtube_id: null
 ---
+Lists and Algebraic Types

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Term Rewriting Systems
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/6-827-multithreaded-parallelism-languages-and-compilers-fall-2002/bb9439fbf5e8cda8688fc926fecb5db4_L22TRSPrint.pdf
+file: /courses/6-827-multithreaded-parallelism-languages-and-compilers-fall-2002/bb9439fbf5e8cda8688fc926fecb5db4_L22TRSPrint.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
@@ -17,3 +17,4 @@ video_files:
 video_metadata:
   youtube_id: null
 ---
+Term Rewriting Systems

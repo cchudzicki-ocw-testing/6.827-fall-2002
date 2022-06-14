@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: The Confluence of the [lambda]-calculus
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/6-827-multithreaded-parallelism-languages-and-compilers-fall-2002/195639c5099584e2ff165576f18829e9_L23ConfluencePrint.pdf
+file: /courses/6-827-multithreaded-parallelism-languages-and-compilers-fall-2002/195639c5099584e2ff165576f18829e9_L23ConfluencePrint.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
@@ -17,3 +17,4 @@ video_files:
 video_metadata:
   youtube_id: null
 ---
+The Confluence of the [lambda]-calculus

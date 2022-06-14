@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Mid-Term Quiz
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/6-827-multithreaded-parallelism-languages-and-compilers-fall-2002/ef81db5665312176dfa2f06d48529179_quiz.pdf
+file: /courses/6-827-multithreaded-parallelism-languages-and-compilers-fall-2002/ef81db5665312176dfa2f06d48529179_quiz.pdf
 file_type: application/pdf
 learning_resource_types:
 - Exams
@@ -17,3 +17,4 @@ video_files:
 video_metadata:
   youtube_id: null
 ---
+Mid-Term Quiz

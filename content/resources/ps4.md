@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Problem Set 4
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/6-827-multithreaded-parallelism-languages-and-compilers-fall-2002/ca0ae097fa08962e908acc7dacdc7e26_ps4.pdf
+file: /courses/6-827-multithreaded-parallelism-languages-and-compilers-fall-2002/ca0ae097fa08962e908acc7dacdc7e26_ps4.pdf
 file_type: application/pdf
 learning_resource_types:
 - Assignments
@@ -17,3 +17,4 @@ video_files:
 video_metadata:
   youtube_id: null
 ---
+Problem Set 4
