@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This course has a midterm exam, which accounts for 25% of a student's
+  grade. This section provides midterm topics, which students in the course used to
+  prepare for the midterm exam. The midterm exam and solutions are also provided.
 learning_resource_types:
 - Exams
 ocw_type: CourseSection

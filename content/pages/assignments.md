@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section contains the problem sets for the course, which altogether
+  account for 50% of a student's grade. Some of the problems refer to files in MIT's
+  Athena computing environment. These files have been placed in this section under
+  "Supporting Files."
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection

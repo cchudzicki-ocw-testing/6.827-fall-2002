@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This calendar provides the lecture topics for the course, along with
+  links to corresponding lecture notes, problem sets, and quizzes.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Calendar

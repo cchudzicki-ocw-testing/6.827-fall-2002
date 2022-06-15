@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: Students in this course are required to complete a project, which accounts
+  for 25% of their grade. This section contains suggestions for project topics.
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
